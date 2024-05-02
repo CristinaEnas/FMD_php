@@ -27,8 +27,6 @@ if($numero > 0){
     echo "il numero è negativo \n";
 }
 
-
-
 // Verificare se un numero è pari o dispari %
 
 $number = 9;
