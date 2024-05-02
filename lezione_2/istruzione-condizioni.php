@@ -46,4 +46,5 @@ if($number % 2 != 0) {
     echo "il numero è pari \n";
 }
 
+echo phpversion();
 ?>
